@@ -8,6 +8,7 @@ Utilize the power of GPT-4o to generate intelligent and personalized travel plan
 
 ## How to get Started?
 Clone the GitHub repository
+</br>
 `
 https://github.com/nomi217/SmartTravel.git
 `
