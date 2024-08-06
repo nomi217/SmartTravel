@@ -8,22 +8,22 @@ Utilize the power of GPT-4o to generate intelligent and personalized travel plan
 
 ## How to get Started?
 Clone the GitHub repository
-</br>
-`
+
+```
 https://github.com/nomi217/SmartTravel.git
-`</br>
-Install the required dependencies:</br>
-`
+```
+Install the required dependencies:
+```
 pip install -r requirements.txt
-`</br>
+```
 Get your AI71 API Key
 Get your SerpAPI Key
 Sign up for an SerpAPI account and obtain your API key.
 Run the Streamlit App</br>
-`
+```
 streamlit run travel_agent.py
-`
-</br>
+```
+
 ## How it Works?
 The AI Travel Agent has two main components:
 
